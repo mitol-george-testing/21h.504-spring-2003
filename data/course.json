@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Business",
+      "Globalization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2d857fc2-6120-445e-b9f2-24a18bf63122"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "East Asia in the World",
+  "course_description": "This subject examines the interactions of East Asia with the rest of the world and the relationships of each of the East Asian countries with each other, from ca. 1500 to 2000 A.D. Primary focus on China and Japan, with some reference to Korea, Vietnam, and Central Asia. Asks how international diplomatic, commercial, military, religious, and cultural relationships joined with internal processes to direct the development of East Asian societies. Subject addresses perceptions and misperceptions among East Asians and foreigners.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.504",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
